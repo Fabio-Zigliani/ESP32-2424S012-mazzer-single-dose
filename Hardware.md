@@ -5,8 +5,8 @@
 - I purchased this [Stainless Steel Dispensing Funnel](https://www.aliexpress.com/item/1005006103829888.html "Stainless Steel Dispensing Funnel") in the 13cm diameter version and removed the Handle and shortened the bottom.
 [![stainless steel metal funnel](https://ae-pic-a1.aliexpress-media.com/kf/S6025f1344136428883be714bd975dcffh.jpg "stainless steel metal funnel")](https://www.aliexpress.com/item/1005006103829888.html "stainless steel metal funnel")
 ## The Brain
-- I purchase an ESP32-2424S012 device
+- I purchase an ESP32-2424S012 device from Aliexpress [ESP32-2424S012](https://www.aliexpress.com/w/wholesale-esp32%2525252d2424s012%5C.html?g=y&SearchText=esp32-2424s012%5C&sortType=total_tranpro_desc)
 ## The connections
 - I purchased a JST cable (4 pin 1.0mm) to connect to the esp32 io.
-- I purchased a JST cable (2 pin 1.25mm) to connect to an external battery.
+- I purchased a JST cable (2 pin 1.25mm) to connect to an external battery. (optional Will just make the device capable of displaying information wile the grinder is unplugged)
 - I purchased a solid state relay to turn on and off the grinder.
